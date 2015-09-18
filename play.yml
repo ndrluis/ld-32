@@ -1,0 +1,73 @@
+---
+- GrassMid:
+    :x: 0.0
+    :y: 512.0
+    :angle: 0
+    :zorder: 100
+    :factor_x: 1.0
+    :factor_y: 1.0
+    :alpha: 255
+- GrassMid:
+    :x: 128.0
+    :y: 512.0
+    :angle: 0
+    :zorder: 100
+    :factor_x: 1.0
+    :factor_y: 1.0
+    :alpha: 255
+- GrassMid:
+    :x: 256.0
+    :y: 512.0
+    :angle: 0
+    :zorder: 100
+    :factor_x: 1.0
+    :factor_y: 1.0
+    :alpha: 255
+- GrassMid:
+    :x: 384.0
+    :y: 512.0
+    :angle: 0
+    :zorder: 100
+    :factor_x: 1.0
+    :factor_y: 1.0
+    :alpha: 255
+- GrassHalf:
+    :x: 513.0
+    :y: 384.0
+    :angle: 0
+    :zorder: 100
+    :factor_x: 1.0
+    :factor_y: 1.0
+    :alpha: 255
+- GrassHalfLeft:
+    :x: 768.0
+    :y: 384.0
+    :angle: 0
+    :zorder: 100
+    :factor_x: 1.0
+    :factor_y: 1.0
+    :alpha: 255
+- GrassHalfMid:
+    :x: 896.0
+    :y: 384.0
+    :angle: 0
+    :zorder: 100
+    :factor_x: 1.0
+    :factor_y: 1.0
+    :alpha: 255
+- GrassHalfRight:
+    :x: 1024.0
+    :y: 384.0
+    :angle: 0
+    :zorder: 100
+    :factor_x: 1.0
+    :factor_y: 1.0
+    :alpha: 255
+- GrassHalf:
+    :x: 1024.0
+    :y: 128.0
+    :angle: 0
+    :zorder: 100
+    :factor_x: 1.0
+    :factor_y: 1.0
+    :alpha: 255

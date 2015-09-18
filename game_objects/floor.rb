@@ -1,0 +1,2 @@
+class Floor < GameObject
+end
